@@ -12,3 +12,5 @@ print("First EC2 conection from git to aws.")
 print("work from V-align")
 
 print ("friday")
+
+print ("Cybersecyrity tests")
