@@ -25,3 +25,4 @@ print ("python is a programming language")
 
 # Credit Card Number 4929-3813-3266-4297
 
+print ("New laptop 29/1/2025")
