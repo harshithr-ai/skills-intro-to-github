@@ -22,6 +22,7 @@ Get started using GitHub in less than an hour.
 -->
 
 ## Step 1: Create a branch
+And try to not commmit directly instead go through it twice and push it through a pull request and push the changes.
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
